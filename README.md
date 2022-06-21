@@ -2,4 +2,4 @@
 
 A simple exercice to get started with ansible .
 
-Creating an apache server , using vars
+Creating and configuring an apache server , using vars
